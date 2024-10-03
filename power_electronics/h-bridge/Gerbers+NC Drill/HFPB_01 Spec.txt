@@ -1,0 +1,50 @@
+HFPB_01 Specifications:
+
+Board size: 125mm x 200mm
+Board area: 2.5 dm^2
+Material: Green FR4, lead free RoHs (with dielectric constant 4.2-4.6)
+Board Thickness: 1.5mm
+Number of Layers: 8
+
+Top/bottom copper thickness: 35um (1.0 oz)
+
+Minimum width of Traces: 0.2mm
+Minimum spacing between Traces: 0.2mm
+Minimum VIA diameters: 0.3mm
+Minimum band width around VIA: 0.15mm
+
+
+Stackup settings:
+________________
+Gerber - Content
+________________
+.GTP - Top paste
+.GTO - Top silkscreen (white)
+.GTS - Top solder mask
+.GTL - Top copper
+	PRE-PREG (0.125mm)
+.G1 - Inner copper 1
+	CORE FR4 (0.2mm)
+.G2 - Inner copper 2
+	PRE-PREG (0.2mm)
+.G3 - Inner copper 3
+	CORE (0.2mm)
+.G4 - Inner copper 4
+	PRE-PREG (0.2mm)
+.G5 - Inner copper 5
+	CORE (0.2mm)
+.G6 - Inner copper 6
+	PRE-PREG (0.125mm)
+.GBL - Bottom copper
+.GBS - Bottom solder mask
+.GBO - Bottom silkscreen (white)
+.GBP - Bottom paste
+
+.GM1 - Board outline
+
+HFPB_01-PCB-RoundHoles.TXT - Round holes coordinates, sizes
+HFPB_01-PCB-SlotHoles.TXT - Slot holes coordinates, sizes
+
+
+Plating: ImmersGold
+Machining: Milling 1mm diameter cutter or smaller
