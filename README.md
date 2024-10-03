@@ -1,4 +1,4 @@
-# project_aetheris
+# Project Aetheris
 Open source project for plasma water purification
 
 # Water Purification Plasma Chemistry 101
