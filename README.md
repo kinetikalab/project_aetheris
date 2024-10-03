@@ -5,7 +5,7 @@ Open source project for plasma water purification
 
 Plasma water purification and activation is a well-known process based on the generation of Reactive Oxygen and Nitrogen Species (RONS) in a plasma discharge, which subsequently oxidize organic impurities and degrade pathogens in water.
 
-### Key Reactions
+## Key Reactions
 
 The hydroxyl radical (OH) plays a critical role in this process. In the literature, the following reaction is often mentioned:
 
@@ -26,7 +26,7 @@ The dissociation of O₂ is much faster than that of H₂O. After O(1D) is forme
 
 These reactions are well understood, but the importance of igniting plasma in warm, humid air is often not clearly emphasized in the literature.
 
-### Ozone's Role in Plasma Chemistry
+## Ozone's Role in Plasma Chemistry
 
 Another critical factor is the presence of ozone (O₃), as it prolongs the lifespan of OH through well-known atmospheric chemistry cycles involving ozone destruction:
 
@@ -35,11 +35,11 @@ Another critical factor is the presence of ozone (O₃), as it prolongs the life
 
 While these reactions are not particularly fast, ozone is a stable molecule and can accumulate in the discharge chamber, reaching high concentrations. Furthermore, HO₂ is a reactive radical that easily dissolves in water, generating hydroxyl radicals in the liquid phase. It plays a significant role in Advanced Oxidation Processes (AOPs) in water.
 
-### In Summary
+## In Summary
 
 An ozone-hydroxyl mixture in highly humid air is an excellent combination for mixing with contaminated water.
 
-## Basic Design Principles
+# Basic Design Principles
 
 1. **Separation of Plasma and Water**  
    It is not necessary to treat contaminated water by directly applying plasma to its surface. This approach is inefficient and difficult to scale. Instead, we generate the ozone-hydroxyl mixture separately and mix it with the water.
@@ -50,7 +50,7 @@ An ozone-hydroxyl mixture in highly humid air is an excellent combination for mi
 3. **Oxygen and Nitrogen Control**  
    Since ozone is required for higher efficiency, a circulation system during the treatment process is essential. Alternatively, nitrogen should be removed from the water tank at the beginning of the treatment process for better results.
 
-### Overall Device Design
+# Overall Device Design
 
 ![Schematic Design](./images/design.png)
 
@@ -59,5 +59,5 @@ An ozone-hydroxyl mixture in highly humid air is an excellent combination for mi
 - **Ejector (E)**: For simple ejector models and mixing system dimensions, refer to the [ejector_model](./ejector_model/). Note: the ejector is often combined with the discharge chamber, but these models provide key inputs for the mixing system design.
 - **O₂ Filter**: A standard O₂ concentrator with molecular sieves.
 
-## Additional information
+# Additional information
 2-dimentional gas dicharge model C code (С parallel code) with plasma-fluid drift-diffusion approximation here [discharge_model](./discharge_model/)
