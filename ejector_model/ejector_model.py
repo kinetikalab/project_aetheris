@@ -39,11 +39,9 @@ Lc2 = (d4-d3)/(2*math.tan(b))
 dp_ratio = (Pp-Pn)/(Pc-Pn)
 Lk = dp1*20*(dp_ratio-1)
 
-print('dp1 = '+str(round(dp1*1000,1))+' mm')
-print('d3 = '+str(round(d3*1000,1))+' mm')
-print('Lc1 = '+str(round(Lc1*1000,1))+' mm')
-print('Lc2 = '+str(round(Lc2*1000,1))+' mm')
-print('d4 = '+str(round(d4*1000,1))+' mm')
-print('Lk = '+str(round(d4*1000,1))+' mm')
-
-Lk = Lk
+print('dp1 = '+str(round(dp1,1))+' mm')
+print('d3 = '+str(round(d3,1))+' mm')
+print('Lc1 = '+str(round(Lc1,1))+' mm')
+print('Lc2 = '+str(round(Lc2,1))+' mm')
+print('d4 = '+str(round(d4,1))+' mm')
+print('Lk = '+str(round(Lk,1))+' mm')
