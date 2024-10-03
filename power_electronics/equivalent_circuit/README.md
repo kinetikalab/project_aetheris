@@ -1,6 +1,8 @@
 # Description
 
-This is a simplified LTSPICE model of power electronics. The H-bridge is substituted by an AC power supply for simplicity (for the detailed design of the H-bridge, see the [power_electronics/h-bridge](power_electronics/h-bridge) folder).
+This is a simplified LTSPICE model of power electronics. 
+
+The H-bridge is substituted by an AC power supply for simplicity (for the detailed design of the H-bridge, see the [power_electronics/h-bridge](power_electronics/h-bridge) folder).
 
 ### Key Components:
 
