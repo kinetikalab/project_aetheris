@@ -60,4 +60,4 @@ An ozone-hydroxyl mixture in highly humid air is an excellent combination for mi
 - **O₂ Filter**: A standard O₂ concentrator with molecular sieves.
 
 # Additional information
-2-dimentional gas dicharge model C code (С parallel code) with plasma-fluid drift-diffusion approximation here [discharge_model](./discharge_model/)
+2-dimentional gas dicharge model (С parallel code) with plasma-fluid drift-diffusion approximation here [discharge_model](./discharge_model/)
