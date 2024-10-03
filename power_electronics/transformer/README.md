@@ -1,6 +1,6 @@
 # Description
 
-Design of a high-voltage resonant transformer (L1-L2). See the equivalent circuit diagram in `power_electronics/equivalent_circuit`.
+Design of a high-voltage resonant transformer (L1-L2). See the equivalent circuit diagram in [power_electronics/equivalent_circuit](/power_electronics/equivalent_circuit).
 
 The current coupling coefficient achieved is **k = 0.6**, but with precise assembly and proper selection of magnetic cores, it could exceed **0.9**.
 
