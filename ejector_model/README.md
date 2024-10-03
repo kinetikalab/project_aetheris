@@ -4,3 +4,6 @@ Sipmle ejector model in based on Sokolov-Zinger model *Sokolov E.Ya. Jet-Stream 
 
 Here is the dimentions
 ![Ejector dimentions](ejector.png)
+
+#Python script
+Use python `ejector_model.py` script for dimentions calculations
