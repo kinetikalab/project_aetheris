@@ -52,7 +52,7 @@ An ozone-hydroxyl mixture in highly humid air is an excellent combination for mi
 
 # Overall Device Design
 
-![Schematic Design](./images/design.png)
+![Schematic Design](./images/design.jpg)
 
 - **Power Electronics**: See the [power_electronics](./power_electronics/).
 - **Discharge Chamber**: See the [discharge_chambers](./discharge_chambers/).
