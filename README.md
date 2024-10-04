@@ -35,6 +35,8 @@ Another critical factor is the presence of ozone (O₃), as it prolongs the life
 
 While these reactions are not particularly fast, ozone is a stable molecule and can accumulate in the discharge chamber, reaching high concentrations. Furthermore, HO₂ is a reactive radical that easily dissolves in water, generating hydroxyl radicals in the liquid phase. It plays a significant role in Advanced Oxidation Processes (AOPs) in water.
 
+Too simple fot you? You can [read more](/discharge_model/glinding_arc_in_ejector_flow.pdf) in the discharge model documentation, where the concept is discussed in greater detail
+
 ## In Summary
 
 An ozone-hydroxyl mixture in highly humid air is an excellent combination for mixing with contaminated water.
