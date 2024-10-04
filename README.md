@@ -14,8 +14,11 @@ The hydroxyl radical (OH) plays a critical role in this process. In the literatu
 However, this reaction requires electron energies greater than **9 eV**, which are rare in atmospheric-pressure gas discharges in air. Additionally, this is a slow reaction. A more efficient way to generate OH is through the following reaction involving excited atomic oxygen:
 
 `e + O2 -> O(1D) + O(3P)`
+
 `H2O + O(1D) -> OH + OH`
+
 `O2 + O(1D) -> O2 + O`
+
 `N2 + O(1D) -> N2 + O`
 
 
@@ -31,6 +34,7 @@ These reactions are well understood, but the importance of igniting plasma in wa
 Another critical factor is the presence of ozone (O₃), as it prolongs the lifespan of OH through well-known atmospheric chemistry cycles involving ozone destruction:
 
 `OH + O3 -> O2 + HO2`
+
 `HO2 + O3 -> OH + 2O2`
 
 While these reactions are not particularly fast, ozone is a stable molecule and can accumulate in the discharge chamber, reaching high concentrations. Furthermore, HO₂ is a reactive radical that easily dissolves in water, generating hydroxyl radicals in the liquid phase. It plays a significant role in Advanced Oxidation Processes (AOPs) in water.
