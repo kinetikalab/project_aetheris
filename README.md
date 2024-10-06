@@ -70,3 +70,5 @@ An ozone-hydroxyl mixture in highly humid air is an excellent combination for mi
 
 # Additional information
 2-dimentional gas dicharge model (С parallel code) with plasma-fluid drift-diffusion approximation here [discharge_model](./discharge_model/)
+
+Experimental results are [here](/results) - to be updaded soon (interesting results are coming soon)
