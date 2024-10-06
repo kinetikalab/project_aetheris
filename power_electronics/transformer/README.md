@@ -6,4 +6,6 @@ The current coupling coefficient achieved is **k = 0.6**, but with precise assem
 
 **IMPORTANT:** Epoxy resin casting is **mandatory** to prevent electrical breakdown between the secondary and primary windings, which could result in potential fire hazards.
 
+**IMPORTANT:** Use litz wire for windings, otherwise you can faced with overheating due to skin-effect.
+
 The primary winding is designed as a set of parallel single-spiral coils - that is the main design idea.
