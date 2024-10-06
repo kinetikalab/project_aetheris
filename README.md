@@ -24,8 +24,6 @@ However, this reaction requires electron energies greater than **9 eV**, which a
 
 The dissociation of O₂ is much faster than that of H₂O. After O(1D) is formed, it is a highly reactive species that most likely reacts with N₂, O₂, or H₂O. The balance between H₂O, O₂, and N₂ depends on their concentrations. In dry, cold air, about 90% of O(1D) is lost due to relaxation with N₂ and O₂, but in hot, humid air, around 20% of O(1D) is lost due to relaxation.
 
-The next problem 
-
 ![Reactions cress sections - **Morgan (Kinema Research & Software)** database and **IST-Lisbon** database, www.lxcat.net, retrieved on Aug 3, 2024.](./images/cs_OH.png)
 
 These reactions are well understood, but the importance of igniting plasma in warm, humid air is often not clearly emphasized in the literature.
