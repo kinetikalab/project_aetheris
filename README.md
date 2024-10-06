@@ -24,6 +24,7 @@ However, this reaction requires electron energies greater than **9 eV**, which a
 
 The dissociation of O₂ is much faster than that of H₂O. After O(1D) is formed, it is a highly reactive species that most likely reacts with N₂, O₂, or H₂O. The balance between H₂O, O₂, and N₂ depends on their concentrations. In dry, cold air, about 90% of O(1D) is lost due to relaxation with N₂ and O₂, but in hot, humid air, around 20% of O(1D) is lost due to relaxation.
 
+The next problem 
 
 ![Reactions cress sections - **Morgan (Kinema Research & Software)** database and **IST-Lisbon** database, www.lxcat.net, retrieved on Aug 3, 2024.](./images/cs_OH.png)
 
@@ -38,6 +39,10 @@ Another critical factor is the presence of ozone (O₃), as it prolongs the life
 `HO2 + O3 -> OH + 2O2`
 
 While these reactions are not particularly fast, ozone is a stable molecule and can accumulate in the discharge chamber, reaching high concentrations. Furthermore, HO₂ is a reactive radical that easily dissolves in water, generating hydroxyl radicals in the liquid phase. It plays a significant role in Advanced Oxidation Processes (AOPs) in water.
+
+One crucial aspect that needs attention is the accumulation of NO₂⁻ and NO₃⁻ ions in water treated with plasma. The cyclic synthesis and breakdown of peroxynitrite, with a residual tail of these ions, seems to be a plausible explanation for the phenomenon of Plasma Activated Water (PAW). A more detailed discussion of the synthesis of nitrogen compounds in plasma discharge in water can be found [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/ppap.202000058)
+
+While in some applications—such as sterilization and disinfection in medicine or accelerating plant growth—this fact is a significant advantage, for the production of high-quality drinking water, nitrogen compounds are unacceptable. Therefore, reducing nitrogen concentration is necessary not only to increase ozone levels but also to eliminate residual nitrates and nitrites from the water. However, if we use this technology and reactor for producing water for agriculture, the oxygen filter must be removed from the design.
 
 **Too simple for you?** You can [read more](/discharge_model/glinding_arc_in_ejector_flow.pdf) in the discharge model documentation, where the concept is discussed in greater detail
 
