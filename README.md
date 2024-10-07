@@ -7,6 +7,14 @@ Plasma water purification and activation is a well-known process based on the ge
 
 ## Key Reactions
 
+The basic concept of plasma purification involves the generation of highly reactive species that oxidize organic pollutants and destroy pathogens. Oxidative purification is not a novel concept; it is a well-established technique in water treatment. For example, ozonation and chlorination are well-known oxidative processes used in the water purification industry. While ozone and chlorine are relatively stable, their oxidation potential is limited precisely because of their stability.
+
+In gas discharges, short-lived radicals with excellent oxidation potential can be generated. These radicals are rarely found in nature due to their high reactivity, which results in very short lifespans—on the order of milliseconds or even less.
+
+The hydroxyl radical (OH) has one of the highest oxidation potentials, second only to fluorine, but fortunately, it does not produce toxic by-products. The hydroxyl radical is the most significant species in plasma chemistry, actively oxidizing pollutants and destroying pathogens, and serving as a precursor to other powerful oxygen and nitrogen radicals.
+
+In designing plasma-based water purification technology, we optimized the production of hydroxyl radicals to enhance the efficiency of pollutant oxidation and pathogen destruction.
+
 The hydroxyl radical (OH) plays a critical role in this process. In the literature, the following reaction is often mentioned:
 
 `e + H2O -> OH + H`
