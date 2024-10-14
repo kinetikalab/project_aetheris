@@ -44,7 +44,7 @@ Another critical factor is the presence of ozone (O₃), as it prolongs the life
 
 `HO2 + O3 -> OH + 2O2`
 
-While these reactions are not particularly fast, ozone is a stable molecule and can accumulate in the discharge chamber, reaching high concentrations. Furthermore, HO₂ is a reactive radical that easily dissolves in water, generating hydroxyl radicals in the liquid phase. It plays a significant role in Advanced Oxidation Processes (AOPs) in water.
+While these reactions are not particularly fast, ozone is a relative stable molecule and can accumulate in the discharge chamber, reaching high concentrations. Furthermore, HO₂ is a reactive radical that easily dissolves in water, generating hydroxyl radicals in the liquid phase. It plays a significant role in Advanced Oxidation Processes (AOPs) in water.
 
 One crucial aspect that needs attention is the accumulation of NO₂⁻ and NO₃⁻ ions in water treated with plasma. The cyclic synthesis and breakdown of peroxynitrite, with a residual tail of these ions, seems to be a plausible explanation for the phenomenon of Plasma Activated Water (PAW). A more detailed discussion of the synthesis of nitrogen compounds in plasma discharge in water can be found [here](https://onlinelibrary.wiley.com/doi/abs/10.1002/ppap.202000058)
 
