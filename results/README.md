@@ -5,3 +5,7 @@ We conducted tests on bacterial contaminants using a 4-liter tank with a circula
 For the tests, we added a mix of PA, SA, and E. coli bacteria to the water at a concentration of 1000 CFU/ml, thoroughly mixed it, and then activated the [discharge chamber](/discharge_chambers/barrier_discharge).
 
 [Photo of results](50kHZ_DBD_FIP3200-24.jpg)
+
+
+## Gliding Arc 500kHZ
+Details [/500_gliding_arc/](here)
