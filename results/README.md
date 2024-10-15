@@ -8,4 +8,4 @@ For the tests, we added a mix of PA, SA, and E. coli bacteria to the water at a 
 
 
 ## Gliding Arc 500kHZ
-Details [/500_gliding_arc/](here)
+Details [here](/500_gliding_arc/)
