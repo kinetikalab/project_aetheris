@@ -11,6 +11,6 @@
 - 55 secondary windings  
 - [Cores: MS-225060-2 ARNOLD](https://www.tme.eu/en/details/ms-225060-2/ring-ferrites/arnold/)  
 - L1 = 1.885 μH, L2 = 1511 μH, k = 0.51  
-- C1 = 50 nF, Cd = 1.6 nF (discharge chamber capacitance ~1.6 pF + parasitic capacitance of coil = 1.6 nF)  
+- C1 = 50 nF, Cd = 1.6 pF
 
 [Discharge Chamber](/discharge_chambers/gliding_arc)
