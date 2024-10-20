@@ -1,6 +1,6 @@
 # Description
 
-<span style="color:red">**CURRENT TRANSFORMER DESIGN IS INCORRECT - IDEA OF DECREASING PRIMARY INDUCTANCE WAS WRONG. NEW DESIGN TO BE READY IN MID OF NOV**<span>
+<span style="color:red">CURRENT TRANSFORMER DESIGN IS INCORRECT - IDEA OF DECREASING PRIMARY INDUCTANCE WAS WRONG. NEW DESIGN TO BE READY IN MID OF NOV<span>
 
 Design of a high-voltage resonant transformer (L1-L2). See the equivalent circuit diagram in [equivalent_circuit](/power_electronics/equivalent_circuit).
 
