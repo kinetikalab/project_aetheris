@@ -76,7 +76,7 @@ An ozone-hydroxyl mixture in highly humid air is an excellent combination for mi
 - **Ejector (E)**: For simple ejector models and mixing system dimensions, refer to the [ejector_model](./ejector_model/). Note: the ejector is often combined with the discharge chamber, but these models provide key inputs for the mixing system design.
 - **O₂ Filter**: A standard O₂ concentrator with molecular sieves.
   
-**Important** Please, read issues before trying to repeat the design.
+**Important** Please, read [issues](https://github.com/kinetikalab/project_aetheris/issues) before trying to repeat the design.
 
 # Additional information
 2-dimentional gas dicharge model (С parallel code) with plasma-fluid drift-diffusion approximation here [discharge_model](./discharge_model/)
