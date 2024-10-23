@@ -1,5 +1,7 @@
 # Description
 
+**CURRENT TRANSFORMER DESIGN IS INCORRECT - IDEA OF DECREASING PRIMARY INDUCTANCE WAS WRONG. NEW DESIGN TO BE READY IN MID OF NOV**
+
 Design of a high-voltage resonant transformer (L1-L2). See the equivalent circuit diagram in [equivalent_circuit](/power_electronics/equivalent_circuit).
 
 The current coupling coefficient achieved is **k = 0.85**, but by increasing the number of secondary and therefore primary windings, a **k > 0.95** can be achieved.
