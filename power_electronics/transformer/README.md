@@ -15,7 +15,7 @@ The current coupling coefficient achieved is **k = 0.85**, but by increasing the
 6. Litz Wire for primary windings
 
 ### Process
-1. Wind the secondary winding with 0.2-0.3 mm coated wire. Create two layers with approximately 200-300 turns each. **IMPORTANT:** Carefully isolate each layer with 2-3 layers of polyamide tape. Here is an [example](/power_electronics/equivalent_circuit/transformer/sw.jpg) of the secondary winding.
+1. Wind the secondary winding with 0.2-0.3 mm coated wire. Create two layers with approximately 200-300 turns each. **IMPORTANT:** Carefully isolate each layer with 2-3 layers of polyamide tape. Here is an [example](/power_electronics/transformer/sw.jpg) of the secondary winding.
 2. Insert the coil into the filling form and fill it with epoxy resin or silicone.
 3. Wind 4-6 primary windings above the cast coil. Primary windings must be uniformly distributed around the coil.
 
