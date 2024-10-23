@@ -10,7 +10,7 @@ The current coupling coefficient achieved is **k = 0.85**, but by increasing the
 1. Two ferrite cores [MS-250026-2 MICROMETALS](https://www.tme.eu/en/details/ms-250026-2/ring-ferrites/micrometals/)
 2. Coated copper wire [0.2-0.3 mm](https://www.amazon.de/-/en/dp/B09VP9QQGW?ref=ppx_yo2ov_dt_b_fed_asin_title)
 3. [Polyimide tape Tape](https://www.amazon.de/-/en/dp/B0C1JF96MG?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
-4. Filling form. [Example](/power_electronics/equivalent_circuit/transformer/housing.stl)
+4. Filling form. [Example](/power_electronics/transformer/housing.stl)
 5. Epoxy Resin or Liquid Silicone
 6. Litz Wire for primary windings
 
