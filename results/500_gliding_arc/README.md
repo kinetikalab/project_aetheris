@@ -8,8 +8,8 @@
 
 [Coil](/power_electronics/transformer)  
 - Core T60006-L2090-W518
-- 50 turns primary winding - litz 3x20x0.2
-- 130 turns secondary winding - 0.3 mm Enamelled copper wire  
+- 3 turns primary winding - litz 3x20x0.2
+- 130 turns secondary winding - 0.3 mm Enamelled copper wire
 - L1 ~ 190 μH, L2 ~ 190 mH, k > 0.99 (estimate, as it is hard to measure L1/L2 in 500 kHz frequency)
 - Cp = 10 pF (measured by 10 points of LC resonaut circuit)
 - Cw = 1.6 pF (measured by PeakTech 2170)
