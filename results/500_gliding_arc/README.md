@@ -7,10 +7,17 @@
 - Pressure: 10 bar  
 
 [Coil](/power_electronics/transformer)  
-- 50 primary windings (in parallel)  
-- 55 secondary windings  
-- [Cores: MS-225060-2 ARNOLD](https://www.tme.eu/en/details/ms-225060-2/ring-ferrites/arnold/)  
-- L1 = 1.885 μH, L2 = 1511 μH, k = 0.51  
-- C1 = 50 nF, Cd = 1.6 pF
+- Core T60006-L2090-W518
+- 50 turns primary winding - litz 3x20x0.2
+- 130 turns secondary winding - 0.3 mm Enamelled copper wire  
+- L1 ~ 190 μH, L2 ~ 190 mH, k > 0.99 (estimate, as it is hard to measure L1/L2 in 500 kHz frequency)
+- Cp = 10 pF (measured by 10 points of LC resonaut circuit)
+- Cw = 1.6 pF (measured by PeakTech 2170)
+- C1 = 22 nF, Cd = 1.6 pF (measured by PeakTech 2170)
 
 [Discharge Chamber](/discharge_chambers/gliding_arc)
+
+**Results**
+[Video](glinding_arc_air.MOV) how gliding arc works in dry air
+DC Voltage ~19V, DC Current 6.4A, Power ~ 120 W
+Resonaunt frequency 540 kHz (close to equivalent circut prediction)
