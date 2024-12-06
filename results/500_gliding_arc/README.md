@@ -18,6 +18,7 @@
 [Discharge Chamber](/discharge_chambers/gliding_arc)
 
 **Results**
+
 [Video](glinding_arc_air.MOV) how gliding arc works in dry air
 DC Voltage ~19V, DC Current 6.4A, Power ~ 120 W
 Resonaunt frequency 540 kHz (close to equivalent circut prediction)
