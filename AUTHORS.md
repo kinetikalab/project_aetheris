@@ -9,5 +9,5 @@ This file lists the contributors to the project.
 
 - **Dmitry Ternovsky** 
 
-- *Julia Sofronova*
+- **Julia Sofronova**
   letnikova.j@gmail.com 
