@@ -8,3 +8,6 @@ This file lists the contributors to the project.
 - **Elena Sysolyatina**
 
 - **Dmitry Ternovsky** 
+
+- *Julia Sofronova*
+  letnikova.j@gmail.com 
