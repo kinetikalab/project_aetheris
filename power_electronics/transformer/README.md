@@ -19,16 +19,19 @@ The current coupling coefficient achieved is **k = 0.99**.
 
 ### Process
 See transformer design [CAD Model](/power_electronics/transformer/High-Voltage_Transformer.f3d)
+
 **Insulation of the core**
 1. Put core intto filling form (do no forget add silcon overaly)
 2. Fill the form with potting compound and wait until it cure. 
 It is important to avoid core breakdown.
+
 **Secondary windings**
-3. Wind the secondary winding using 0.3 mm coated wire, approximately 130 turns.  
+4. Wind the secondary winding using 0.3 mm coated wire, approximately 130 turns.  
    **IMPORTANT:** Maintain a spacing of ~0.2–0.3 mm between turns to minimize parasitic capacitance.
-4. Fill the seondary winding with potting compound and wait until it cure.
+5. Fill the seondary winding with potting compound and wait until it cure.
+
 **Primary windings**
-5. Wind 3 primary windings. Refer to the provided 3D model for detailed instructions.
+6. Wind 3 primary windings. Refer to the provided 3D model for detailed instructions.
 
 ## Comments
 
