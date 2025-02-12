@@ -7,7 +7,6 @@ The H-bridge is substituted by an AC power supply for simplicity (for the detail
 ### Key Components:
 
 - **C1**: Balance capacitor battery.
-- **Lb**: Balance inductance.
 - **Ls1**: Primary leakage inductance.
 - **Ls2**: Secondary leakage inductance.
 - **Lm1**: Primary magnetizing inductance.
